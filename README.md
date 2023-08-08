@@ -1,2 +1,2 @@
 ### Hi there 👋
-<img src="https://media.licdn.com/dms/image/D5616AQEMmU8uEp6vHQ/profile-displaybackgroundimage-shrink_350_1400/0/1691455839994?e=1697068800&v=beta&t=feuvYcfCVDWnxgGnRUtia0OmNBTF8yuqQtW8Ce0EzkE" />
+<img src="https://media.licdn.com/dms/image/D5616AQFfMr3CyedKHw/profile-displaybackgroundimage-shrink_350_1400/0/1691492185390?e=1697068800&v=beta&t=umUvvbOh8M-fbsDePp8SfE6GCH13M_iXll0cWigN2Xw" />
